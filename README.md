@@ -9,11 +9,13 @@ $ make
 
 ## Configure AWS Lambda
 
-![](docs/img/img01/png)
 
-![](docs/img/img02/png)
 
-![](docs/img/img03/png)
+![](https://raw.githubusercontent.com/fivestar/lambda-golang-sandbox/master/docs/img/img01.png)
 
-![](docs/img/img04/png)
+![](https://raw.githubusercontent.com/fivestar/lambda-golang-sandbox/master/docs/img/img02.png)
+
+![](https://raw.githubusercontent.com/fivestar/lambda-golang-sandbox/master/docs/img/img03.png)
+
+![](https://raw.githubusercontent.com/fivestar/lambda-golang-sandbox/master/docs/img/img04.png)
 
